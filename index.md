@@ -397,6 +397,10 @@ please preview your site before committing, and make sure to run
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
 </p>
 
+<p>
+  Depending on the user's privlidges, the software should be able to be installed on the machine without the need to reach out to the RESC for temporary administrative access. However, please make sure to install these early to confirm that you can install and run each component in case RESC help is needed. Users should come to the session with everything installed as we'll dive right into the lessons.
+</p>
+
 {% comment %}
 For online workshops, the section below provides:
 - installation instructions for the Zoom client
