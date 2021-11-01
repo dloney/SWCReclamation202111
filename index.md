@@ -398,7 +398,7 @@ please preview your site before committing, and make sure to run
 </p>
 
 <p>
-  Depending on the user's privlidges, the software should be able to be installed on the machine without the need to reach out to the RESC for temporary administrative access. However, please make sure to install these early to confirm that you can install and run each component in case RESC help is needed. Users should come to the session with everything installed as we'll dive right into the lessons.
+  Depending on the user's privlidges, the software should be able to be installed on the machine without the need to reach out to the RESC for temporary administrative access. However, please make sure to install these early to confirm that you can install and run each component in case RESC help is needed. Users should come to the session with everything installed as we'll dive right into the lessons. If you have any questions or issues, please reach out to Drew to help get your system setup in advance.
 </p>
 
 {% comment %}
@@ -416,8 +416,7 @@ to include the relevant installation instrucctions.
 {% endif %}
 
 {% comment %}
-These are the installation instructions for the tools used
-during the workshop.
+These are the installation instructions for the tools used during the workshop.
 {% endcomment %}
 
 {% if site.carpentry == "swc" %}
@@ -431,4 +430,3 @@ Please check the "Setup" page of
 [the lesson site]({{ site.incubator_lesson_site }}) for instructions to follow
 to obtain the software and data you will need to follow the lesson.
 {% endif %}
- 
